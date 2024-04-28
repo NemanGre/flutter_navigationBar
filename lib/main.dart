@@ -63,7 +63,7 @@ class _MyHomePageState extends State<MyHomePage>
           decoration: BoxDecoration(
               boxShadow: const [
                 BoxShadow(
-                    offset: Offset(0, 0), blurRadius: 0, color: Colors.grey)
+                    offset: Offset(1, 0), blurRadius: 1, color: Colors.grey)
               ],
               gradient: SweepGradient(
                   startAngle: 4,
